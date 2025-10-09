@@ -5,8 +5,8 @@ The data for this project was acquired through **Kaggle**, and the link is in th
 To navigate this repository <br />
 Click the **.xslx** file, and then click the “**View raw**” link, or download button, to view the **Excel analysis** of the project. <br />
 Click the **.csv** file to view the **raw data**. <br />
-The data information is shown below <br />
-**micro** <br />
+The data information is shown below: <br />
+<br />
 The **micro.csv** has the columns in this data set below: <br />
 **index** - Keeps the index of each entry. <br />
 **date** - The date that the company published their quarterly reports to the portal. <br />
