@@ -1,6 +1,6 @@
 # Quarterly-Analysis-of-Nepalese-Microfinance-Companies
 This repository looks into data regarding quarterly profit reports of Nepalese microfinance companies from the years 2015-2022 as listed on the Nepal Stock Exchange. <br />
-The data for this project was acquired through Kaggle: 
+The data for this project was acquired through **Kaggle**, and the link is in the about section. <br /> 
 
 To navigate this repository <br />
 Click the **.xslx** file, and then click the “**View raw**” link, or download button, to view the **Excel analysis** of the project. <br />
